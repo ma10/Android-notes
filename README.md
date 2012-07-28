@@ -1,4 +1,5 @@
 Android-notes
 =============
 
-Some tips, memo, etc. for Japanese blind Android users.
+視覚障碍者が日本語環境のAndroidを使う際に参考になるかもしれない情報を蓄積しています。
+
